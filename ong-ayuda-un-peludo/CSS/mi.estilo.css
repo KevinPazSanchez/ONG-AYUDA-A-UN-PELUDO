@@ -1,3 +1,17 @@
-h1 {color: green;}
-p {color:darkmagenta;}
-*{font-family: sans-serif;}     /*  SELECTOR INIVERSAL */
+body
+{
+    font-style:italic;
+    color: green;
+    background-color: white;
+}
+#contenido {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    }
+
+#integrantes h2 {
+    color: red;
+    height: auto;
+}
